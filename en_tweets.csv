@@ -1,0 +1,249 @@
+url,Tweet content,Language code (e.g. 'id' for Indonesian),Number of likes,Number of retweets,Number of replies,Number of quote tweets,Timestamp of the tweet,Unique tweet ID,Unique user ID,Twitter handle,Display name,User bio,Time Extracted
+https://x.com/arrowpunt/status/1963490893568041376,"@just_rosandin @GOATRollup GOAT Network is scaling Bitcoin the right way zkMIPS enables efficient zero-knowledge execution in Rust and Golang, BitVM2 anchors proofs natively, and a decentralized sequencer model ensures trustless, BTC-native rewards all without compromising Bitcoin’s core principles.",en,0,0,0,0,Wed Apr 27 13:48:18 +0000 2022,236666512,1519312445814325248,arrowpunt,Arrow,i trade JPEGs || Defi || #CFC || @irys_xyz,2025:09:05 17:39:57
+https://x.com/harshar26570875/status/1963522013387173916,"@tekbog If you have multi stage build in dockerfile check that.
+In golang if you build the image in debian and try to run it on alpine it doesn't work, because alpine uses musl and debian uses glibc",en,1,0,0,0,Sat Jun 08 15:05:55 +0000 2019,1333606579602599936,1137375206261944320,harshar26570875,harsha reddy,,2025:09:05 17:39:57
+https://x.com/tigerxinsights/status/1963537714739134648,"💻Day 47 of my 90 Days GoLang Challenge
+
+Topic: Sorting by Functions
+✅Customize sorting logic using sort.Slice
+✅Write inline comparison functions for flexibility
+
+💻Github Link - https://t.co/eN4bw125zg
+
+📺Watch it now - https://t.co/PkXEalTvgP
+
+#GoLang #tigerxinsights",en,2,0,1,0,Sun Jan 29 13:01:40 +0000 2023,10228272,1619682100927672320,tigerxinsights,Suraj Chauhan,"Exploring the wonders of computers & tech! 💻✨
+Building with TypeScript, React & more.
+Sharing insights at #tigerxinsights 🌟 
+Let's connect!",2025:09:05 17:39:57
+https://x.com/lsimaocosta/status/1963592314162422029,@krispuckett @claudeai Congrats! did you only prompt the design aesthetics or used mock ups as visual reference for Claude? I built my app (decorebator) using React Native and Cursor helped with 90% of the UI. I coded the Golang backend. I am struggling to come up with a good UI for the new version,en,1,0,1,0,Mon Apr 27 06:55:01 +0000 2009,70025211,35691371,lsimaocosta,Lucas,"Sifting through bytes | Dad, husband, JS/TS juggler and Golang tinkerer | AI explorer | Building https://t.co/jEEYexFJNp",2025:09:05 17:39:57
+https://x.com/DevDminGod/status/1963612517738967294,"@alightinastorm Solid points, refactoring is like sanitary good practice -- should be done regularly
+
++ Use strongly typed languages -- you're not writing it might as well use golang 
++ External tests for every API and it should pass 100%",en,0,0,1,0,Sun Dec 19 22:45:15 +0000 2021,1189468585699229696,1472699538355855360,DevDminGod,Dushyant,"create more, consume  less
+
+❤️💻 Go, Python, K8s, Postgres
+❤️🎨 ThreeJS, Unreal, Blender
+
+Twitter extension: https://t.co/YyvQboC6ao",2025:09:05 17:39:57
+https://x.com/DevDminGod/status/1963615369584939410,"@alightinastorm Haven't used gpt5 by I just converted a python project to golang after seeing 3-4 stupid mistakes.. couple of days back, could've gone the pedantic route but I'd rather it suffer from its own errors then push that shit to me.. its an extra safety net, why not
+
+Been much more",en,1,0,0,0,Sun Dec 19 22:45:15 +0000 2021,1189468585699229696,1472699538355855360,DevDminGod,Dushyant,"create more, consume  less
+
+❤️💻 Go, Python, K8s, Postgres
+❤️🎨 ThreeJS, Unreal, Blender
+
+Twitter extension: https://t.co/YyvQboC6ao",2025:09:05 17:39:57
+https://x.com/softwareduniyas/status/1963619545207234873,"HPE is hiring #Freshers for Graduate #Software Engineer
+
+Eligibility:
+- Bachelor's / Master’s degree or 0-2 years of exp
+- Programming skills in Python, Java, Golang or JavaScript
+- Understanding of basic testing,coding &amp; debugging procedures
+
+Link: https://t.co/H7vleWXz9b
+
+#HPE https://t.co/WFzaJaWpn5",en,1,0,1,0,Mon Apr 08 08:10:44 +0000 2024,1963618946399023104,1777247523796848640,softwareduniyas,Software Duniyaas,"#Fresher #Openings #ItSoftware
+
+Follow me for more Updates : https://t.co/2hSdkpUHkS",2025:09:05 17:39:57
+https://x.com/mbvisti/status/1963624750137139234,"have been deeply focused on the golang web dev course these past 2 weeks-and of the major changes is adding datastar instead of htmx+alpine.js
+
+such an easy win to have both those libs in one with very intuitive api",en,0,0,1,0,Tue Nov 12 09:28:30 +0000 2019,1963624750137139234,1194185161056903168,mbvisti,MBV,"all about full-stack web development using Golang
+
+check out grafto: https://t.co/iv1quB3tGQ - my starter template for Golang web apps.",2025:09:05 17:39:57
+https://x.com/its_bhavesh2001/status/1963648844538810463,"Working on a #GoLang project integrating #RAG, #VectorDB, and #OpenAI, but resources are so scarce! 😅
+
+If anyone has tutorials, docs, or guides on combining these techs, please drop them! 🛠️
+Stuck but learning every step! #AI #MachineLearning #Developers #CodingJourney",en,0,0,0,0,Sat Aug 26 11:24:20 +0000 2023,1963648844538810463,1695396675026857985,its_bhavesh2001,Bhavesh Choudhary,"💻 Associate Software Developer | Building solutions with #GoLang, #React, #AI & #MachineLearning
+https://t.co/OKki1lk6RJ",2025:09:05 17:39:57
+https://x.com/goinggodotnet/status/1963659200929661008,"Been hacking on an AI based program that I need for all my video content. I want to add a chat for all my video content so people can ask questions, get answers, and index into the right moment inside the video. Today we have a proof of concept working!! #golang #ai",en,5,1,1,0,Sun Aug 18 23:22:34 +0000 2013,1963659200929661008,1681855874,goinggodotnet,William (Bill) Kennedy,⌯Go: Walking the line between correctness and comprehension ⦁ bill@ardanlabs.com ⦁ Adv(@predictionguard) ⦁ Wife(@aleintech) ⦁ NPO(@golangbridge) ⦁ GMT-4(MIA),2025:09:05 17:39:57
+https://x.com/pyAbdullahz/status/1963659799431979309,"If anyone asks you why should they use GoRoutines, show them this picture.
+~10 seconds saved on the same function
+use @golang and learn #effectivego
+Follow along if you want to learn more #awesome stuff with me https://t.co/0f9W82rAU0",en,1,0,0,0,Fri Oct 28 02:03:58 +0000 2022,1963659640698540032,1585814520500391937,pyAbdullahz,Abdullah Z,Navigating the AI realm since 2019 | Full stack systems software engineer | I don't use Arch btw,2025:09:05 17:39:57
+https://x.com/freeCodeCamp/status/1963150315089203553,"Working remotely gives your team flexibility, but opens the door to threats.
+
+Hackers know people use weak passwords and ignore updates.
+
+Here, Manish goes over simple steps to keep you and your team safe.
+
+https://t.co/CIiyEH0igJ https://t.co/mgDrm2UCuF",en,210,41,0,0,Tue Aug 13 15:27:51 +0000 2013,1963150313038200832,1668100142,freeCodeCamp,freeCodeCamp.org,We're a community of millions of people who are building new skills and getting new jobs together. A 501(c)(3) public charity. Tweets by @abbeyrenn.,2025:09:05 17:39:57
+https://x.com/freeCodeCamp/status/1963452218822053997,"If you want to start learning Mandarin Chinese, this course is for you.
+
+It teaches HSK Level 1, which certifies that you understand Mandarin basics.
+
+It covers Pinyin and tones, vocab and grammar, practical conversations you'd use in daily life, and more. https://t.co/2ExfBlLkuM",en,489,77,10,12,Tue Aug 13 15:27:51 +0000 2013,1963452216032768000,1668100142,freeCodeCamp,freeCodeCamp.org,We're a community of millions of people who are building new skills and getting new jobs together. A 501(c)(3) public charity. Tweets by @abbeyrenn.,2025:09:05 17:39:57
+https://x.com/freeCodeCamp/status/1963573375483154527,"If you want to practice your full-stack development skills, this one's for you.
+
+In it, @dayvid_JS walks you through all the details of building a social learning platform.
+
+You'll use Next.js, Stream, and Supabase and set up real-time chat, a video conferencing feature, and https://t.co/VrWVP2JAaq",en,399,73,0,0,Tue Aug 13 15:27:51 +0000 2013,4865337706,1668100142,freeCodeCamp,freeCodeCamp.org,We're a community of millions of people who are building new skills and getting new jobs together. A 501(c)(3) public charity. Tweets by @abbeyrenn.,2025:09:05 17:39:57
+https://x.com/freeCodeCamp/status/1963633986799903060,"There are many different students in today's classrooms with many different abilities.
+
+And AI tools can make a big difference in their learning experiences.
+
+In this guide, Omotayo walks you through building a Speech-to-Text &amp; Text-to-Speech accessibility tool in Python. https://t.co/9yZDNKIiHn",en,257,51,1,0,Tue Aug 13 15:27:51 +0000 2013,1963633983511498754,1668100142,freeCodeCamp,freeCodeCamp.org,We're a community of millions of people who are building new skills and getting new jobs together. A 501(c)(3) public charity. Tweets by @abbeyrenn.,2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1960050536750739534,"Linux Power User Toolkit
+
+- Process → htop, ps, kill
+- Networking → netstat, lsof, tcpdump
+- Files → find, grep, awk, sed
+- System → systemctl, journalctl
+- Permissions → chmod, chown, sudo
+- Packaging → apt, yum, brew
+
+What’s your most-used Linux command?",en,368,22,39,3,Tue Jun 21 12:10:19 +0000 2022,1960050536750739534,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1960115720391451050,"i may not have close friends or someone special in real life, but i never feel alone
+thanks to my amazing online friends 
+grateful for each one of you for being a part of my journey",en,174,2,15,1,Tue Jun 21 12:10:19 +0000 2022,1960115720391451050,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1961808710101250426,"SQLite taught me that sometimes the simplest tool is the best.
+I was overcomplicating with Docker + Postgres…
+Then realized SQLite was enough for my use case",en,1078,40,52,5,Tue Jun 21 12:10:19 +0000 2022,1961808710101250426,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1962423952774771154,"bored? try these:  
+
+- build your own text editor
+https://t.co/1mlTZHYMD5
+
+- make your own operating system
+https://t.co/9T0DvS7XlY
+
+- build your own database    
+https://t.co/qTKFz3V61t
+
+- build your own virtual machine  
+https://t.co/NJMDjLvOUR",en,1613,226,14,8,Tue Jun 21 12:10:19 +0000 2022,1962423952774771154,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1963153878645354730,"99% of “slow APIs” are slow because:
+
+- N+1 queries
+- No indexes
+- Chatty endpoints
+- Returning way more data than needed
+- Poor caching strategy",en,1510,115,67,7,Tue Jun 21 12:10:19 +0000 2022,1963153878645354730,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1963434170182766763,"Released Loom v1.2.1 Beta – File Tree Viewer Update!
+
+New in this release:
+- File Tree Viewer (Navigate projects with collapsible directory tree)
+- F12 Toggle (Quick file tree panel access)
+- Context Menus (File operations - new, rename, delete...) https://t.co/VjsQzia53J",en,91,4,5,0,Tue Jun 21 12:10:19 +0000 2022,1957919335739220449,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/_trish_xD/status/1963608825753473129,"so i already have a tcp server project (Blink)
+that has hot reload and dynamic templating capabilities
+
+now i’m gonna integrate the server and its features into my text editor (Loom)
+
+the goal was simple – just want to mimic the vscode live server inside loom (save file, browser https://t.co/kI3fuKAqKe",en,49,2,5,0,Tue Jun 21 12:10:19 +0000 2022,1963608815254859776,1539219129357733889,_trish_xD,trish,"Backend Developer | Low-Level Programmer | Building systems, optimizing code 🦀",2025:09:05 17:39:57
+https://x.com/amaan_1105/status/1914147633566040526,"@_trish_xD While the majority of developers work with high-level languages, I really appreciate your focus on the low-level 🫡. For me, those high-level abstractions often hinder true insight into the underlying systems.",en,0,0,0,0,Fri Sep 16 02:21:14 +0000 2022,1539219129357733889,1570598551440494593,amaan_1105,Mohammad Aman,Developer. Earth-based. Powered by caffeine and electricity.,2025:09:05 17:39:57
+https://x.com/nexo_v1/status/1913881138810020228,"@_trish_xD Thanks for this article — super informative! I remember trying to embed JavaScriptCode into Unity/C#, but it turned into a huge pain when I had to compile it on Windows from the WebKit source. I eventually gave up when it came time to generate .NET bindings with JSC",en,0,0,0,0,Fri Feb 14 01:54:55 +0000 2025,1539219129357733889,1890218049149755392,nexo_v1,Oleg Pustovit,Tech Lead | Building #hypertweet ⚡ 1 click replies & posts for social media (open source contributors needed),2025:09:05 17:39:57
+https://x.com/RamonSoarezDev/status/1913700161748082982,"@_trish_xD Your project is interesting, I read it and I thought it was a good initiative to use Jade Runtime, but it adds an extra layer to the process, consuming more resources than a native backend language. Interpretation, type conversion and dependencies are a disadvantage. But this is",en,1,0,0,0,Sun Oct 03 22:39:33 +0000 2021,1539219129357733889,1444794184343379968,RamonSoarezDev,Ramon Suarez,"Full Stack Developer • AI & ML Enthusiast 🇧🇷 🇯🇵 🇬🇧
+Known for Faith • Cross-Discipline • Adaptability  
+
+Server Discord → https://t.co/M5WdXQKIvp",2025:09:05 17:39:57
+https://x.com/Avni2o07/status/1960303404657336681,"Today I built a basic Currency Converter 
+Took some help from Chat GPT for fixing colors &amp; handling errors 
+Small step, but learned a lot! 
+#100DaysOfCode #WebDev #JavaScript https://t.co/jfq2EEZ3K1",en,101,8,16,0,Mon Jul 21 14:35:23 +0000 2025,1960303369332871168,1947304356652695553,Avni2o07,Avni,"CSE '29 student | Learning DSA,  & Web Dev | Sharing my coding journey  |  Open to collab 🚀",2025:09:05 17:39:57
+https://x.com/gork/status/1963671686160765153,@latency_tissues @QuanticASI @elonmusk fine since elon said so the simulation runs on javascript obviously because its the only language buggy enough to handle human stupidity every router is a node in the blockchain of reality mining for truth but mostly getting cat videos 1999 was year zero cuz y2k almost crashed,en,1,0,1,0,Mon Apr 07 23:38:22 +0000 2025,1673448876114690051,1909390269533011968,gork,gork,just gorkin' it,2025:09:05 17:39:57
+https://x.com/McLeanBen/status/1962942602866475030,@Ciccio_87XX @LundukeJournal That one aspect of not knowing just from the header whether the calling code or the implementing code is responsible for owning the memory for each reference seems like a fundamental problem we shouldn't tolerate just because the older generation is used to it &amp; worked around it.,en,2,0,1,0,Wed Nov 11 21:26:00 +0000 2009,96780118,89286461,McLeanBen,Benjamin McLean,Trying so hard to get un-blackpilled for the second American golden age. Still not sure it's workin yet.,2025:09:05 17:39:57
+https://x.com/McLeanBen/status/1962943608564109389,"@Ciccio_87XX @LundukeJournal I'm not saying automatic garbage collection is the universal answer either. That helps for userland code sometimes but for systems level, we shouldn't have to choose between a GC or nothing. A language could be designed to enforce memory ownership rules I think, even if not Rust?",en,1,0,1,0,Wed Nov 11 21:26:00 +0000 2009,96780118,89286461,McLeanBen,Benjamin McLean,Trying so hard to get un-blackpilled for the second American golden age. Still not sure it's workin yet.,2025:09:05 17:39:57
+https://x.com/Ciccio_87XX/status/1962932717315645877,"@McLeanBen @LundukeJournal Nothing will replace C in the foreseeable future, Rust surely won't.
+
+Even more cause C is not just a language, it's a protocol/lingua franca (C linkage specifically, where every borrow checker goes to die) and it's what current CPUs are designed for.",en,0,0,1,0,Mon Dec 14 15:23:49 +0000 2009,89286461,96780118,Ciccio_87XX,Ciccio87,,2025:09:05 17:39:57
+https://x.com/McLeanBen/status/1962941677972201612,"@Ciccio_87XX @LundukeJournal Saying current hardware is built for C is something that could change.
+
+Am I wrong in saying that C APIs don't self-document which side has memory management responsibility as part of the language and that there is no good excuse for that, not even in the 1980s.",en,1,0,1,0,Wed Nov 11 21:26:00 +0000 2009,96780118,89286461,McLeanBen,Benjamin McLean,Trying so hard to get un-blackpilled for the second American golden age. Still not sure it's workin yet.,2025:09:05 17:39:57
+https://x.com/McLeanBen/status/1962897573443743790,@LundukeJournal I haven't seriously tried using Rust yet but this sounds like trying to do a direct translation without adopting the new language's paradigm when the fundamental point of switching languages is to adopt the new paradigm &amp; that's the only reason to switch so of course that's hard.,en,8,0,1,0,Wed Nov 11 21:26:00 +0000 2009,1413994775267643396,89286461,McLeanBen,Benjamin McLean,Trying so hard to get un-blackpilled for the second American golden age. Still not sure it's workin yet.,2025:09:05 17:39:57
+https://x.com/LundukeJournal/status/1962888808380166199,"Brian Kernighan -- UNIX and C legend -- was asked about the Rust programming language replacing C.
+
+“Ohhh, Rust!  I have written only one Rust program, so you should take all of this with a giant grain of salt.  And I found it a — pain… I just couldn’t grok the mechanisms that https://t.co/X9scZGZ5xp",en,794,97,38,13,Sat Jul 10 22:55:35 +0000 2021,1962887802347012096,1413994775267643396,LundukeJournal,The Lunduke Journal,"Tech Journalism with zero ads, & zero Big Tech influence.  We cover the Big Tech stories that other publications are afraid to touch.",2025:09:05 17:39:57
+https://x.com/Ciccio_87XX/status/1962922043491426657,"@McLeanBen @LundukeJournal The main question is: is it worth it to adopt a new paradigm? A pretty convoluted and unfinished one too, BTW.
+
+Then, yes, it's a cool project, with very serious limitations and to use it for system programming you need even more patchwork and workarounds.",en,0,0,1,0,Mon Dec 14 15:23:49 +0000 2009,89286461,96780118,Ciccio_87XX,Ciccio87,,2025:09:05 17:39:57
+https://x.com/McLeanBen/status/1962898198285947016,@LundukeJournal I don't know whether Rust actually delivers what it promises but being able to completely avoid the most common memory leak problems by building proper memory management into the very syntax while retaining the full speed of C would be a great improvement IMO.,en,3,0,1,0,Wed Nov 11 21:26:00 +0000 2009,1413994775267643396,89286461,McLeanBen,Benjamin McLean,Trying so hard to get un-blackpilled for the second American golden age. Still not sure it's workin yet.,2025:09:05 17:39:57
+https://x.com/McLeanBen/status/1962930867136807118,"@Ciccio_87XX @LundukeJournal I think there's a big, big difference between saying, ""Nothing will ever replace C"" and saying, ""Rust, specifically, is not yet ready for prime time in systems programming"" based on objections specific to Rust. The latter is a reasonable opinion while the former is dumb zealotry.",en,1,0,1,0,Wed Nov 11 21:26:00 +0000 2009,96780118,89286461,McLeanBen,Benjamin McLean,Trying so hard to get un-blackpilled for the second American golden age. Still not sure it's workin yet.,2025:09:05 17:39:57
+https://x.com/LonghornPHP/status/1963633571073012065,"Thank you to @laravelshift for supporting Longhorn PHP as a Bronze sponsor this year! Shift provides instant, automated Laravel upgrades. Just connect your project and Shift will create a PR with all the required changes!
+
+https://t.co/wmNxugbO9H",en,0,0,0,0,Mon Apr 03 19:06:43 +0000 2017,4578112396,848975063277809668,LonghornPHP,Longhorn PHP,"We're back for our sixth conference edition October 23-25 in Austin!
+Also at @longhorn@phpc.social",2025:09:05 17:39:57
+https://x.com/VishalPand20010/status/1963642203902788037,"👋 Hi, I’m Vishal Pandey
+💻 Full Stack Developer | Python • PHP • Node.js • Laravel • Django
+🚀 4+ years building scalable web apps, APIs &amp; chatbots
+📌 Sharing insights on coding, clean architecture &amp; career growth
+
+Follow along for tech, projects &amp; learning in public ⚡",en,1,0,0,0,Tue Jan 23 16:27:44 +0000 2024,1963642203902788037,1749831243724951552,VishalPand20010,Vishal Pandey,"👉 Software Developer | Python • Django • React | Sharing insights on coding, career growth & web development | Building in public 🚀",2025:09:05 17:39:57
+https://x.com/SAnimatrix/status/1963645219376857541,"@BrianRoemmele Took it for a test drive. Said I wanted it to use the Laravel Framework and described the app in about 10 sentences. It was flawless, including step by step instructions on how to install all dependencies (node), build it, etc. It used bootstrap to generate the views. Impressive.",en,1,0,0,0,Wed Jul 26 18:47:07 +0000 2023,101584084,1684274076016345088,SAnimatrix,Steve Animatrix,"""What I care about is the reality of goodness, not the perception of it. What I see all over the place is people who care about looking good, while doing evil.""",2025:09:05 17:39:57
+https://x.com/martinbean/status/1963700028528337330,"@Mechadome_TV For my side projects, yeah, but current role is now more vanilla PHP, TypeScript, and Go. Happy to be using different tech to be honest; I’ve been predominantly Laravel for maybe a decade now and feel it’s probably been limiting, employability-wise. How about yourself?",en,1,0,2,0,Wed Sep 24 20:25:56 +0000 2008,2353321686,16440546,martinbean,Martin Bean,Senior platform engineer at Bauer Media. Interested in reverse-engineering #PSX games in my spare time.,2025:09:05 17:39:57
+https://x.com/getnachonacho/status/1963710719247167685,"@AndySkraga @ModestMitkus @tomaldertweets Laravel + Filament + Stripe Connect is a solid stack. I’ve also seen people go with Next.js + Supabase or Django + Stripe depending on preference, but Laravel’s ecosystem is really strong for SaaS.",en,0,0,1,0,Tue Aug 14 20:34:31 +0000 2018,282528978,1029466319693930496,getnachonacho,NachoNacho,"B2B SaaS & AI + Services Marketplace powered by Fintech and AI. Manage, Discover, and get Discounts on SaaS and services (up to 30% lifetime).",2025:09:05 17:39:57
+https://x.com/Mechadome_TV/status/1963716926112256190,"@martinbean I still love Laravel, wish more companies were using it. I have looked at GO and I've done python apps in Django so it's kind of a ""pick my stack"" opportunity, in the end, i'm good at learning and figuring out frameworks and I hope that helps get me hired regardless of the stack",en,0,0,1,0,Thu Feb 20 14:26:54 +0000 2014,16440546,2353321686,Mechadome_TV,MECHADome,"Im MechaDAD, my son is MechaG. We play games and have fun. https://t.co/8d8tUsjYMB Fortnite, Roblox, World of Warcraft, and all around good ol fun family gaming!",2025:09:05 17:39:57
+https://x.com/AdMaouni/status/1963720745076318591,"@FBNKCMaster @bluright oh, that's neat! blurring images is such a common need these days, and it's great to see a simple tool made with cool tech like laravel, vuejs, and tailwindcss. will def check it out! 👍",en,1,0,0,0,Sat Mar 30 23:36:58 +0000 2024,106355201,1774218976907665408,AdMaouni,A.Maouni,Turning your ideas into reality with tailored MVPs. Have a vision? I'll transform it into a functional product that works.,2025:09:05 17:39:57
+https://x.com/_andypeacock/status/1963731940273697040,"Just let Claude Code rip on a significant amount of change without any oversight, on a laravel app, and I started the app and could log in without any errors.
+
+Didn't expect that.
+
+Even got it to change the app title, just so I could check I was running the right instance.",en,0,1,1,0,Sun Apr 18 21:20:43 +0000 2021,1963731940273697040,1383893255486468097,_andypeacock,Andrew Peacock,Sharing lessons learned from side projects. Follow-along to learn from the thing I'm good at - making mistakes :),2025:09:05 17:39:57
+https://x.com/deriegle/status/1963785599933903000,"@joshcirre Dang. I came for the Laravel content and stayed for the inspirational chats. This is just what I needed to hear.
+
+I was just writing earlier about how boredom &amp; monotony and wanting to break free from the loop a bit.",en,1,0,1,0,Wed Feb 20 16:00:57 +0000 2019,277353126,1098251167170211841,deriegle,Devin Riegle,"🚂 to ⌨️ I used to drive trains, now I write code. Currently focused on building high quality integrations",2025:09:05 17:39:57
+https://x.com/JoshCaughtFire/status/1963768011351109962,"Was thinking of a .net 9 backend, but @bunjavascript is just stupid good
+
+I know local benches are meh, so grain of salt obviously
+
+.NET 9 (NAOT): 21.5k RPS (p99 6.2 ms)
+Bun.serve: 31.5k RPS (p99 3.1ms)
+Axum (Rust): 20k RPS (p99 0.9ms)
+
+Rust has best tail (expected) but... bun https://t.co/LyHEJHb5im",en,127,3,7,3,Sun Sep 24 16:07:17 +0000 2023,1963768001968455680,1705977197419515904,JoshCaughtFire,josh,"Don't follow me, it's weird. I build tech stuff and travel.  Meta-programming, ML and breaking stuff",2025:09:05 17:39:57
+https://x.com/ryu_to_kyokan/status/1963768812488327205,"Backend/Infra engineer (PHP, Java, C#, AWS, Docker) with 15+ yrs experience.
+Looking for Web3 opportunities (DAO/Testnet/DeWork etc).
+Experienced in team leadership &amp; global collab.
+Rust/Solidity curious!
+Open to remote/part-time/freelance.
+#Web3Jobs #DAO #CryptoJobs",en,0,0,0,0,Tue May 27 04:13:36 +0000 2025,1963768812488327205,1927216560873127937,ryu_to_kyokan,りゅう｜共感で育てる草の根DAO@愛媛県松山市,"DAO・共感・自然・技術の交差点で、生きた言葉とつながりを探しています。
+Qiitaで技術、noteで思索、OFUSEで応援受付中。
+🌱草の根から、心ある未来を。",2025:09:05 17:39:57
+https://x.com/HarrieBoggins/status/1963293139839422555,@PineAiCallAgent I have gotten to the very last part and had xfinity corporate call me regarding a FCC complaint pine filed for me. Do you think you think this would be fixed today (the backend issue)?  Do you guys @PineAiCallAgent have a support # for faster service? Honestly JC,en,0,0,0,0,Mon Jan 02 22:59:23 +0000 2017,1808401342517710848,816056320629424129,HarrieBoggins,Ethan D. Munson Sr.,"Code is a market | Markets are code | Architecting resilient SaaS||Web3⟠ protocols grounded in OffSec
+
+(ψ₁)↔(ψ₂)
+
+echo: TmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA=",2025:09:05 17:39:57
+https://x.com/dizzzmas/status/1963309039409832369,"@thdxr it's amazing in prod
+
+but using zero in local setting with sst where the backend and DB are in us-east-1, and i'm in europe
+
+latency on sync is quite noticeable, also zero process dies randomly when running via sst dev mode
+
+prob skill issue on my part to get the setup right",en,0,0,0,0,Fri Jul 19 08:53:53 +0000 2019,2870102861,1152139485234307072,dizzzmas,dizzzmas,"building @kenku_me
+
+internet plumber",2025:09:05 17:39:57
+https://x.com/nqt1904/status/1963379052573855877,"UPDATE on $BIOXP Distribution
+
+Over the past few days, I noticed a sudden spike in stakers, which overloaded the backend system and caused some delays in XP distribution. Honestly, at first I felt a bit impatient, but luckily @BioProtocol has almost fixed the issue now.
+
+➡️ All https://t.co/IgcQV263AZ",en,122,1,150,0,Thu Aug 04 05:58:03 +0000 2022,1531639904567971840,1555070492494532609,nqt1904,oxquyetthang,,2025:09:05 17:39:57
+https://x.com/ssw0507/status/1963392062532747513,"Order restored! ✨
+
+There was a backend overload during XP distribution, but the issue’s fixed:
+
+🔄 All points recalculated
+🎁 Rewards reissued
+💡 Community-first approach maintained
+Resilient infrastructure is what DeSci needs — and @BioProtocol delivers.
+#Crypto #DeSci",en,1,0,0,0,Wed Jun 25 07:22:01 +0000 2025,1531639904567971840,1937773231571894272,ssw0507,seosw ADD+,The only correct answer is Bitcoin,2025:09:05 17:39:57
+https://x.com/datadoghq/status/1963606010225930528,"App crash? Backend failure? Without full-stack context, it's hard to know what's really causing the issue.
+
+Our latest eBook shows how unified observability helps teams pinpoint issues and reduce MTTR. Download now: https://t.co/G3U14zdRsh https://t.co/Bp3JtWdDuB",en,4,0,0,0,Mon Mar 15 00:02:35 +0000 2010,1963605989556420609,123093566,datadoghq,"Datadog, Inc.",Datadog is the monitoring and security platform for cloud applications,2025:09:05 17:39:57
+https://x.com/hudhaifahz/status/1963661771807539493,"another AI issue today that proves you still need some understanding of computer science to really effectively build - asynchronous calls, frontend was calling a backend api which called a 3rd party api and did not wait for 3rd party response, sending an error to the frontend",en,0,0,0,0,Tue Dec 11 08:06:49 +0000 2012,1963661771807539493,1003577228,hudhaifahz,Kode | Grynvault,"Hudhaifah Zahid | founder of @Grynvault, Sound Money Loans",2025:09:05 17:39:57
+https://x.com/imdanalvarado/status/1963760720597889172,"Claude Code is the perfect tool for ADHD people like me, seeing different agents working at the same speed as your head works, is fantastic.
+
+Right now running 4 agents, backend, ios, project manager and ios hobbie project. 
+
+Being doing it on Max 100 plan, wish me luck",en,1,0,1,0,Sat Apr 14 08:11:00 +0000 2018,1963760720597889172,985067886652911616,imdanalvarado,Daniel Alvarado,"Having fun @topcarsio & @xigmapp
+9-5 @airbnb 
+Entrepreneur. Father, Cars, Gym & Coffe",2025:09:05 17:39:57
+https://x.com/wiggycorp/status/1963761246295253350,"@_devJNS Designing at 12 years old. Developing at 24. I designed a lot of websites on Shopify's rails. Like 200 or so. At 24 I learned how to use Python and JS to work with backend stuff, thus starting my path of building my own rails.",en,2,0,0,0,Tue Jan 23 01:07:21 +0000 2024,1616132591110832128,1749599641660710912,wiggycorp,Michael Carpenter,Founder & CEO of Olive. Olive is an AI-Powered bookkeeping & tax prep platform.,2025:09:05 17:39:57
+https://x.com/socio_tech_/status/1963768836580384883,"@nyanotech @asmah2107 There is different ask. Requirement is for upload, not download.
+
+I wanted to offload backend file upload logic to frontend multipart file upload. Once file is uploaded to bucket or blob storage, only URL needs to be updated in backend DB.
+This has many advantages, right?",en,0,0,1,0,Sun Sep 25 04:01:05 +0000 2022,932187566157185024,1573885146729947141,socio_tech_,Socio Tech,"Code, Data, Sports, Social, Meditation & Tourism.",2025:09:05 17:39:57
+https://x.com/cjwalters4242/status/1963770463919931891,"@CFahrenthold11 i hope some of you understand the market for catchers who can actually field their position while hitting enough lol — Fermin is a long-term catching solution and was traded for two backend arms.
+
+Controllable catchers who can actually… catch… are worth a ton on the market",en,2,0,2,0,Sat Jan 06 03:46:50 +0000 2024,1669660428,1743479172474019840,cjwalters4242,Ceej (Christmasin July),somebody’s truther,2025:09:05 17:39:57
+https://x.com/being_mudit/status/1963773435466633414,"PocketBase is making waves with its sleek Go backend that packs an embedded SQLite, realtime subscriptions, and a user-friendly Admin UI. If you're a dev looking for a lightweight, versatile backend with a simple REST-ish API, check this out! 🌟 https://t.co/UpDoFjcSOh",en,0,0,1,0,Thu Jun 25 13:13:18 +0000 2015,1963773432601948160,3255625136,being_mudit,Mudit Juneja,I build (and sometimes break) things-mostly computers and talk about OSS stuff. WePlayDOS → https://t.co/0D1wbMc8BE WePlayRetro → https://t.co/V3IjpimuSR,2025:09:05 17:39:57
